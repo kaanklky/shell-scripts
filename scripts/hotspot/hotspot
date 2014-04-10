@@ -1,10 +1,6 @@
 #!/bin/bash
 
-<<<<<<< HEAD
 if [[ $1 = "activate" ]]; then
-=======
-if [[ $1 = "ac" ]]; then
->>>>>>> scripts added
 	service network-manager stop
 	service hostapd stop
 	service isc-dhcp-server stop
