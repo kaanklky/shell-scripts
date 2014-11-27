@@ -34,3 +34,6 @@ Script List
 
 * block
 	* Parameters:  *ip_address*. Just add ip address as first parameter. Script will add ip address in iptables rules to block ip.
+
+
+    	> ./block.sh 0.0.0.0
