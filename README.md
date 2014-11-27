@@ -31,3 +31,6 @@ Script List
 
 * hotspot/stations:
     * Parameters: *no parameter, just run*. It will show your clients who connected to your hotspot.
+
+* block
+	* Parameters:  *ip_address*. Just add ip address as first parameter. Script will add ip address in iptables rules to block ip.
